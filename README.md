@@ -1,4 +1,4 @@
-# Tech Bloc Challenge #14
+# Tech Blog Challenge #14
 
 ## Description
 * A CMS-style blog site for developers to publish tech related articles, blog posts, thoughts, and opinions. (currently under construction)
